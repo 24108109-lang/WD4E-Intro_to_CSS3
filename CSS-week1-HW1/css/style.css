@@ -6,10 +6,24 @@ body {
 header {
     background-color: #d9eaf7;
 }
-
 nav {
     background-color: #333333;
     color: white;
+}
+
+nav a {
+    color: white;
+}
+
+footer {
+    background-color: #333333;
+    color: white;
+}
+
+footer a {
+    color: white;
+}
+
 }
 
 main {
